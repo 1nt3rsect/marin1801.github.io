@@ -1,0 +1,17 @@
+body {
+    background-image: url(http://www.marketing-mobile-interactif.fr/wp-content/uploads/2012/11/fond.png);
+}
+h1 {
+    color: red;
+    text-align: center;
+}
+p {
+    color: blue;
+    font-size:2em;
+    font-style:italic,font-family:Comic Sans,Comic Sans MS,cursive;
+    }
+h2{color: purple;
+font-family: Comic Sans, Comic Sans MS, cursive;
+    }
+h3 {color:blue;
+}
